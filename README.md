@@ -326,20 +326,15 @@ This repository contains **comprehensive data analytics projects** spanning mult
 <div align="center">
 
 ### 💻 **Programming & Analysis**
-![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-Intermediate-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Intermediate-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 📊 **Data Visualization**
-![Tableau](https://img.shields.io/badge/Tableau-Expert-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Advanced-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-Advanced-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🤖 **Advanced Analytics**
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Intermediate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-Advanced-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white)
-![A/B Testing](https://img.shields.io/badge/A/B_Testing-Advanced-9C27B0?style=for-the-badge&logo=experiment&logoColor=white)
 
 </div>
 
@@ -366,9 +361,9 @@ This repository contains **comprehensive data analytics projects** spanning mult
 
 ### 📋 **For Recruiters & Hiring Managers**
 
-1. **📊 Start Here**: Check the [Featured Projects](#-featured-projects) section for detailed project breakdowns
+1. **📊 Start Here**: Check the projects section for detailed project breakdowns and files
 2. **🔍 Dive Deep**: Each project folder contains complete source code, datasets, and documentation  
-3. **📈 View Results**: Interactive dashboards and visualizations are available in each project
+3. **📈 View Results**: Interactive dashboards and visualizations are available in each project in the form of (.pbix) format of Power BI. 
 4. **💼 Business Impact**: Review the quantified business outcomes and recommendations
 
 ### 👨‍💻 **For Developers & Data Scientists**
